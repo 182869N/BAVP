@@ -1,0 +1,109 @@
+# Metadata for Resident Population of Other Ethnic Groups by Age Group, Ethnic Group and Sex, 2015
+---
+Identifier: '7d1458eb-b0f7-4256-8525-35de8d7e7063'
+Name: 'resident-population-of-other-ethnic-groups-by-age-group-ethnic-group-and-sex-2015'
+Title: 'Resident Population of Other Ethnic Groups by Age Group, Ethnic Group and
+  Sex, 2015'
+Description: 'The General Household Survey (GHS) 2015 is the third in the series of
+  mid-decade national survey. It covers a wide range of topics and provides comprehensive
+  data on Singapore’s population and households in between the population censuses
+  that are conducted once in ten years.'
+Topics:
+  - 'Society'
+Keywords:
+  - 'Age Group'
+  - 'Ethnic Group'
+  - 'General Household Survey'
+  - 'Resident Population of Other Ethnic Groups'
+  - 'Sex'
+Publisher:
+  Name: 'Ministry of Trade and Industry - Department of Statistics'
+  Admin 1:
+    Name: 'SingStat Info'
+    Department: 'Statistics Information Services'
+    Email: 'info@singstat.gov.sg'
+Sources:
+  - 'Ministry of Trade and Industry - Department of Statistics'
+Source Url: 'http://www.tablebuilder.singstat.gov.sg/publicfacing/createSpecialTable.action?refId=8181&exportType=csv'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Other'
+Coverage: '2015-01-01 to 2015-12-31'
+Last Updated: '2020-05-28T06:06:23.210752'
+Resources:
+  -
+    Identifier: '909ace28-2722-4fc9-b245-5c89b4a656c6'
+    Title: 'Resident Population of Other Ethnic Groups by Age Group (Total), Ethnic
+      Group and Sex'
+    Url: 'https://storage.data.gov.sg/resident-population-of-other-ethnic-groups-by-age-group-ethnic-group-and-sex-2015/resources/resident-population-of-other-ethnic-groups-by-age-group-total-ethnic-group-and-sex-2020-05-28T06-06-21Z.csv'
+    Format: 'CSV'
+    Coverage: '2015-01-01 to 2015-12-31'
+    Last Updated: '2020-05-28T06:06:21.567016'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'level_1'
+        Title: 'Ethnic Group'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'level_2'
+        Title: 'Sex'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'level_3'
+        Title: 'Age Group (Total)'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'value'
+        Title: 'Value'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Number'
+  -
+    Identifier: 'df509938-c034-4777-8ad8-7402f00f2158'
+    Title: 'Resident Population of Other Ethnic Groups by Age Group, Ethnic Group
+      and Sex'
+    Url: 'https://storage.data.gov.sg/resident-population-of-other-ethnic-groups-by-age-group-ethnic-group-and-sex-2015/resources/resident-population-of-other-ethnic-groups-by-age-group-ethnic-group-and-sex-2018-05-23T08-32-05Z.csv'
+    Format: 'CSV'
+    Coverage: '2015-01-01 to 2015-12-31'
+    Last Updated: '2018-05-23T08:32:05.867533'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'level_1'
+        Title: 'Ethnic Group'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'level_2'
+        Title: 'Sex'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'level_3'
+        Title: 'Age Group (Total)'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'level_4'
+        Title: 'Age Group'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'value'
+        Title: 'Value'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Number'

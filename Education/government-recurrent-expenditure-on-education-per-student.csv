@@ -1,0 +1,199 @@
+year,type_of_educational_institution,expenditure_per_student
+1986,Primary Schools,1404
+1986,Secondary Schools,1931
+1986,Junior Colleges/Centralised Institutes,2606
+1986,Polytechnics,4143
+1986,Institute of Technical Education,3924
+1986,Universities,11874
+1987,Primary Schools,1474
+1987,Secondary Schools,2042
+1987,Junior Colleges/Centralised Institutes,2643
+1987,Polytechnics,4219
+1987,Institute of Technical Education,3631
+1987,Universities,11993
+1988,Primary Schools,1692
+1988,Secondary Schools,2364
+1988,Junior Colleges/Centralised Institutes,2858
+1988,Polytechnics,4803
+1988,Institute of Technical Education,3802
+1988,Universities,14248
+1989,Primary Schools,1892
+1989,Secondary Schools,2574
+1989,Junior Colleges/Centralised Institutes,3332
+1989,Polytechnics,5755
+1989,Institute of Technical Education,4262
+1989,Universities,13965
+1990,Primary Schools,2013
+1990,Secondary Schools,2843
+1990,Junior Colleges/Centralised Institutes,3956
+1990,Polytechnics,5916
+1990,Institute of Technical Education,4883
+1990,Universities,13615
+1991,Primary Schools,2062
+1991,Secondary Schools,3004
+1991,Junior Colleges/Centralised Institutes,4574
+1991,Polytechnics,6051
+1991,Institute of Technical Education,5180
+1991,Universities,14868
+1992,Primary Schools,2061
+1992,Secondary Schools,3129
+1992,Junior Colleges/Centralised Institutes,4780
+1992,Polytechnics,6142
+1992,Institute of Technical Education,6201
+1992,Universities,15422
+1993,Primary Schools,2254
+1993,Secondary Schools,3412
+1993,Junior Colleges/Centralised Institutes,5178
+1993,Polytechnics,6990
+1993,Institute of Technical Education,5212
+1993,Universities,15450
+1994,Primary Schools,2523
+1994,Secondary Schools,3488
+1994,Junior Colleges/Centralised Institutes,5832
+1994,Polytechnics,7584
+1994,Institute of Technical Education,7511
+1994,Universities,16355
+1995,Primary Schools,2653
+1995,Secondary Schools,3680
+1995,Junior Colleges/Centralised Institutes,6363
+1995,Polytechnics,7776
+1995,Institute of Technical Education,9547
+1995,Universities,17241
+1996,Primary Schools,2837
+1996,Secondary Schools,4152
+1996,Junior Colleges/Centralised Institutes,6726
+1996,Polytechnics,8406
+1996,Institute of Technical Education,11646
+1996,Universities,15037
+1997,Primary Schools,2960
+1997,Secondary Schools,4469
+1997,Junior Colleges/Centralised Institutes,7052
+1997,Polytechnics,9018
+1997,Institute of Technical Education,10586
+1997,Universities,15125
+1998,Primary Schools,2808
+1998,Secondary Schools,4472
+1998,Junior Colleges/Centralised Institutes,6346
+1998,Polytechnics,8144
+1998,Institute of Technical Education,7020
+1998,Universities,12580
+1999,Primary Schools,2612
+1999,Secondary Schools,4409
+1999,Junior Colleges/Centralised Institutes,6325
+1999,Polytechnics,8032
+1999,Institute of Technical Education,6452
+1999,Universities,14112
+2000,Primary Schools,3137
+2000,Secondary Schools,5104
+2000,Junior Colleges/Centralised Institutes,7304
+2000,Polytechnics,9546
+2000,Institute of Technical Education,8076
+2000,Universities,15384
+2001,Primary Schools,3363
+2001,Secondary Schools,5304
+2001,Junior Colleges/Centralised Institutes,7879
+2001,Polytechnics,9668
+2001,Institute of Technical Education,7829
+2001,Universities,15262
+2002,Primary Schools,3535
+2002,Secondary Schools,5614
+2002,Junior Colleges/Centralised Institutes,8497
+2002,Polytechnics,9793
+2002,Institute of Technical Education,8056
+2002,Universities,14287
+2003,Primary Schools,3508
+2003,Secondary Schools,5437
+2003,Junior Colleges/Centralised Institutes,8791
+2003,Polytechnics,10197
+2003,Institute of Technical Education,8367
+2003,Universities,17477
+2004,Primary Schools,3575
+2004,Secondary Schools,5746
+2004,Junior Colleges/Centralised Institutes,8850
+2004,Polytechnics,10695
+2004,Institute of Technical Education,9399
+2004,Universities,17609
+2005,Primary Schools,3820
+2005,Secondary Schools,5793
+2005,Junior Colleges/Centralised Institutes,9445
+2005,Polytechnics,10843
+2005,Institute of Technical Education,9249
+2005,Universities,17793
+2006,Primary Schools,4243
+2006,Secondary Schools,6246
+2006,Junior Colleges/Centralised Institutes,10161
+2006,Polytechnics,11903
+2006,Institute of Technical Education,10209
+2006,Universities,18472
+2007,Primary Schools,5026
+2007,Secondary Schools,7230
+2007,Junior Colleges/Centralised Institutes,12386
+2007,Polytechnics,12482
+2007,Institute of Technical Education,10543
+2007,Universities,19011
+2008,Primary Schools,5397
+2008,Secondary Schools,7551
+2008,Junior Colleges/Centralised Institutes,11094
+2008,Polytechnics,13479
+2008,Institute of Technical Education,11106
+2008,Universities,19664
+2009,Primary Schools,5537
+2009,Secondary Schools,7736
+2009,Junior Colleges/Centralised Institutes,10772
+2009,Polytechnics,12598
+2009,Institute of Technical Education,10129
+2009,Universities,18868
+2010,Primary Schools,6624
+2010,Secondary Schools,9008
+2010,Junior Colleges/Centralised Institutes,12331
+2010,Polytechnics,14552
+2010,Institute of Technical Education,11839
+2010,Universities,20630
+2011,Primary Schools,6712
+2011,Secondary Schools,9022
+2011,Junior Colleges/Centralised Institutes,11830
+2011,Polytechnics,14687
+2011,Institute of Technical Education,11898
+2011,Universities,20505
+2012,Primary Schools,7396
+2012,Secondary Schools,9940
+2012,Junior Colleges/Centralised Institutes,12806
+2012,Publicly-funded full-time diploma courses,14487
+2012,Full-time Nitec / Higher Nitec courses,11837
+2012,Publicly-funded full-time degree courses,20777
+2013,Primary Schools,8549
+2013,Secondary Schools,11434
+2013,Junior Colleges/Centralised Institutes,13942
+2013,Publicly-funded full-time diploma courses,15304
+2013,Full-time Nitec / Higher Nitec courses,12491
+2013,Publicly-funded full-time degree courses,21870
+2014,Primary Schools,9123
+2014,Secondary Schools,12261
+2014,Junior Colleges/Centralised Institutes,14379
+2014,Publicly-funded full-time diploma courses,15681
+2014,Full-time Nitec / Higher Nitec courses,12650
+2014,Publicly-funded full-time degree courses,22181
+2015,Primary Schools,10081
+2015,Secondary Schools,13213
+2015,Junior Colleges/Centralised Institutes,15326
+2015,Publicly-funded full-time diploma courses,16118
+2015,Full-time Nitec / Higher Nitec courses,13619
+2015,Publicly-funded full-time degree courses,21988
+2016,Primary Schools,10596
+2016,Secondary Schools,13869
+2016,Junior Colleges/Centralised Institutes,16602
+2016,Full-time Nitec / Higher Nitec courses,13968
+2016,Publicly-funded full-time diploma courses,15934
+2016,Publicly-funded full-time degree courses,21757
+2017,Primary Schools,11338
+2017,Secondary Schools,14527
+2017,Junior Colleges/Centralised Institutes,17440
+2017,Full-time Nitec / Higher Nitec courses,14582
+2017,Publicly-funded full-time diploma courses,16561
+2017,Publicly-funded full-time degree courses,21624
+2018,Primary Schools,12020
+2018,Secondary Schools,15518
+2018,Junior Colleges/Centralised Institutes,17702
+2018,Full-time Nitec / Higher Nitec courses,14743
+2018,Publicly-funded full-time diploma courses,16408
+2018,Publicly-funded full-time degree courses,22192
