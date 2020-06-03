@@ -1,0 +1,189 @@
+year,level_1,level_2,level_3,level_4,value
+2015,Total,Total,"With Religion","Buddhism",995.7
+2015,Total,Total,"With Religion","Taoism",307.2
+2015,Total,Total,"With Religion","Islam",404.6
+2015,Total,Total,"With Religion","Hinduism",148.1
+2015,Total,Total,"With Religion","Sikhism",10.7
+2015,Total,Total,"With Religion","Christianity",548.1
+2015,Total,Total,"With Religion","Other Religions",7.2
+2015,Total,Males,"With Religion","Buddhism",477.2
+2015,Total,Males,"With Religion","Taoism",150.9
+2015,Total,Males,"With Religion","Islam",198.6
+2015,Total,Males,"With Religion","Hinduism",74.2
+2015,Total,Males,"With Religion","Sikhism",5
+2015,Total,Males,"With Religion","Christianity",240.2
+2015,Total,Males,"With Religion","Other Religions",3.8
+2015,Total,Females,"With Religion","Buddhism",518.5
+2015,Total,Females,"With Religion","Taoism",156.3
+2015,Total,Females,"With Religion","Islam",206
+2015,Total,Females,"With Religion","Hinduism",73.9
+2015,Total,Females,"With Religion","Sikhism",5.7
+2015,Total,Females,"With Religion","Christianity",307.8
+2015,Total,Females,"With Religion","Other Religions",3.5
+2015,No Qualification,Total,"With Religion","Buddhism",160.8
+2015,No Qualification,Total,"With Religion","Taoism",81.9
+2015,No Qualification,Total,"With Religion","Islam",48.5
+2015,No Qualification,Total,"With Religion","Hinduism",8.7
+2015,No Qualification,Total,"With Religion","Sikhism",0.9
+2015,No Qualification,Total,"With Religion","Christianity",32.9
+2015,No Qualification,Total,"With Religion","Other Religions",1
+2015,No Qualification,Males,"With Religion","Buddhism",58.4
+2015,No Qualification,Males,"With Religion","Taoism",31.8
+2015,No Qualification,Males,"With Religion","Islam",15.6
+2015,No Qualification,Males,"With Religion","Hinduism",2.1
+2015,No Qualification,Males,"With Religion","Sikhism",0.2
+2015,No Qualification,Males,"With Religion","Christianity",8.5
+2015,No Qualification,Males,"With Religion","Other Religions",0.4
+2015,No Qualification,Females,"With Religion","Buddhism",102.4
+2015,No Qualification,Females,"With Religion","Taoism",50.1
+2015,No Qualification,Females,"With Religion","Islam",32.9
+2015,No Qualification,Females,"With Religion","Hinduism",6.7
+2015,No Qualification,Females,"With Religion","Sikhism",0.7
+2015,No Qualification,Females,"With Religion","Christianity",24.3
+2015,No Qualification,Females,"With Religion","Other Religions",0.6
+2015,Primary,Total,"With Religion","Buddhism",92.1
+2015,Primary,Total,"With Religion","Taoism",31.5
+2015,Primary,Total,"With Religion","Islam",35.8
+2015,Primary,Total,"With Religion","Hinduism",7.9
+2015,Primary,Total,"With Religion","Sikhism",0.7
+2015,Primary,Total,"With Religion","Christianity",15.1
+2015,Primary,Total,"With Religion","Other Religions",0.2
+2015,Primary,Males,"With Religion","Buddhism",43.2
+2015,Primary,Males,"With Religion","Taoism",15.4
+2015,Primary,Males,"With Religion","Islam",16.8
+2015,Primary,Males,"With Religion","Hinduism",3.4
+2015,Primary,Males,"With Religion","Sikhism",0.2
+2015,Primary,Males,"With Religion","Christianity",5.8
+2015,Primary,Males,"With Religion","Other Religions",0.1
+2015,Primary,Females,"With Religion","Buddhism",48.9
+2015,Primary,Females,"With Religion","Taoism",16.2
+2015,Primary,Females,"With Religion","Islam",19
+2015,Primary,Females,"With Religion","Hinduism",4.5
+2015,Primary,Females,"With Religion","Sikhism",0.5
+2015,Primary,Females,"With Religion","Christianity",9.4
+2015,Lower Secondary,Total,"With Religion","Buddhism",97.1
+2015,Lower Secondary,Total,"With Religion","Taoism",30.1
+2015,Lower Secondary,Total,"With Religion","Islam",42.8
+2015,Lower Secondary,Total,"With Religion","Hinduism",8.7
+2015,Lower Secondary,Total,"With Religion","Sikhism",0.8
+2015,Lower Secondary,Total,"With Religion","Christianity",24.4
+2015,Lower Secondary,Total,"With Religion","Other Religions",0.7
+2015,Lower Secondary,Males,"With Religion","Buddhism",51.5
+2015,Lower Secondary,Males,"With Religion","Taoism",16.4
+2015,Lower Secondary,Males,"With Religion","Islam",22.4
+2015,Lower Secondary,Males,"With Religion","Hinduism",4.2
+2015,Lower Secondary,Males,"With Religion","Sikhism",0.4
+2015,Lower Secondary,Males,"With Religion","Christianity",9.5
+2015,Lower Secondary,Males,"With Religion","Other Religions",0.1
+2015,Lower Secondary,Females,"With Religion","Buddhism",45.7
+2015,Lower Secondary,Females,"With Religion","Taoism",13.7
+2015,Lower Secondary,Females,"With Religion","Islam",20.3
+2015,Lower Secondary,Females,"With Religion","Hinduism",4.5
+2015,Lower Secondary,Females,"With Religion","Sikhism",0.4
+2015,Lower Secondary,Females,"With Religion","Christianity",14.9
+2015,Lower Secondary,Females,"With Religion","Other Religions",0.6
+2015,Secondary,Total,"With Religion","Buddhism",196.9
+2015,Secondary,Total,"With Religion","Taoism",52.7
+2015,Secondary,Total,"With Religion","Islam",98.8
+2015,Secondary,Total,"With Religion","Hinduism",22.5
+2015,Secondary,Total,"With Religion","Sikhism",2.7
+2015,Secondary,Total,"With Religion","Christianity",85.5
+2015,Secondary,Total,"With Religion","Other Religions",1
+2015,Secondary,Males,"With Religion","Buddhism",88.6
+2015,Secondary,Males,"With Religion","Taoism",26.8
+2015,Secondary,Males,"With Religion","Islam",44.6
+2015,Secondary,Males,"With Religion","Hinduism",10.4
+2015,Secondary,Males,"With Religion","Sikhism",1.3
+2015,Secondary,Males,"With Religion","Christianity",30.7
+2015,Secondary,Males,"With Religion","Other Religions",0.4
+2015,Secondary,Females,"With Religion","Buddhism",108.3
+2015,Secondary,Females,"With Religion","Taoism",25.8
+2015,Secondary,Females,"With Religion","Islam",54.2
+2015,Secondary,Females,"With Religion","Hinduism",12.2
+2015,Secondary,Females,"With Religion","Sikhism",1.4
+2015,Secondary,Females,"With Religion","Christianity",54.8
+2015,Secondary,Females,"With Religion","Other Religions",0.5
+2015,Post-Secondary (Non-Tertiary),Total,"With Religion","Buddhism",89.9
+2015,Post-Secondary (Non-Tertiary),Total,"With Religion","Taoism",24.1
+2015,Post-Secondary (Non-Tertiary),Total,"With Religion","Islam",74.4
+2015,Post-Secondary (Non-Tertiary),Total,"With Religion","Hinduism",12.8
+2015,Post-Secondary (Non-Tertiary),Total,"With Religion","Sikhism",1
+2015,Post-Secondary (Non-Tertiary),Total,"With Religion","Christianity",49.8
+2015,Post-Secondary (Non-Tertiary),Total,"With Religion","Other Religions",0.5
+2015,Post-Secondary (Non-Tertiary),Males,"With Religion","Buddhism",51.9
+2015,Post-Secondary (Non-Tertiary),Males,"With Religion","Taoism",15.1
+2015,Post-Secondary (Non-Tertiary),Males,"With Religion","Islam",46.6
+2015,Post-Secondary (Non-Tertiary),Males,"With Religion","Hinduism",7.7
+2015,Post-Secondary (Non-Tertiary),Males,"With Religion","Sikhism",0.7
+2015,Post-Secondary (Non-Tertiary),Males,"With Religion","Christianity",24.1
+2015,Post-Secondary (Non-Tertiary),Males,"With Religion","Other Religions",0.3
+2015,Post-Secondary (Non-Tertiary),Females,"With Religion","Buddhism",38
+2015,Post-Secondary (Non-Tertiary),Females,"With Religion","Taoism",9
+2015,Post-Secondary (Non-Tertiary),Females,"With Religion","Islam",27.9
+2015,Post-Secondary (Non-Tertiary),Females,"With Religion","Hinduism",5.1
+2015,Post-Secondary (Non-Tertiary),Females,"With Religion","Sikhism",0.4
+2015,Post-Secondary (Non-Tertiary),Females,"With Religion","Christianity",25.7
+2015,Post-Secondary (Non-Tertiary),Females,"With Religion","Other Religions",0.2
+2015,Polytechnic,Total,"With Religion","Buddhism",87
+2015,Polytechnic,Total,"With Religion","Taoism",24.6
+2015,Polytechnic,Total,"With Religion","Islam",42.4
+2015,Polytechnic,Total,"With Religion","Hinduism",11.6
+2015,Polytechnic,Total,"With Religion","Sikhism",0.5
+2015,Polytechnic,Total,"With Religion","Christianity",45.8
+2015,Polytechnic,Total,"With Religion","Other Religions",0.5
+2015,Polytechnic,Males,"With Religion","Buddhism",54.7
+2015,Polytechnic,Males,"With Religion","Taoism",15.4
+2015,Polytechnic,Males,"With Religion","Islam",24.9
+2015,Polytechnic,Males,"With Religion","Hinduism",7.7
+2015,Polytechnic,Males,"With Religion","Sikhism",0.2
+2015,Polytechnic,Males,"With Religion","Christianity",26.4
+2015,Polytechnic,Males,"With Religion","Other Religions",0.3
+2015,Polytechnic,Females,"With Religion","Buddhism",32.2
+2015,Polytechnic,Females,"With Religion","Taoism",9.3
+2015,Polytechnic,Females,"With Religion","Islam",17.6
+2015,Polytechnic,Females,"With Religion","Hinduism",4
+2015,Polytechnic,Females,"With Religion","Sikhism",0.2
+2015,Polytechnic,Females,"With Religion","Christianity",19.4
+2015,Polytechnic,Females,"With Religion","Other Religions",0.2
+2015,Professional Qualification And Other Diploma,Total,"With Religion","Buddhism",72.4
+2015,Professional Qualification And Other Diploma,Total,"With Religion","Taoism",13.9
+2015,Professional Qualification And Other Diploma,Total,"With Religion","Islam",23.7
+2015,Professional Qualification And Other Diploma,Total,"With Religion","Hinduism",11
+2015,Professional Qualification And Other Diploma,Total,"With Religion","Sikhism",0.6
+2015,Professional Qualification And Other Diploma,Total,"With Religion","Christianity",52
+2015,Professional Qualification And Other Diploma,Total,"With Religion","Other Religions",0.6
+2015,Professional Qualification And Other Diploma,Males,"With Religion","Buddhism",28.1
+2015,Professional Qualification And Other Diploma,Males,"With Religion","Taoism",5.4
+2015,Professional Qualification And Other Diploma,Males,"With Religion","Islam",10.6
+2015,Professional Qualification And Other Diploma,Males,"With Religion","Hinduism",7
+2015,Professional Qualification And Other Diploma,Males,"With Religion","Sikhism",0.4
+2015,Professional Qualification And Other Diploma,Males,"With Religion","Christianity",19
+2015,Professional Qualification And Other Diploma,Males,"With Religion","Other Religions",0.3
+2015,Professional Qualification And Other Diploma,Females,"With Religion","Buddhism",44.3
+2015,Professional Qualification And Other Diploma,Females,"With Religion","Taoism",8.5
+2015,Professional Qualification And Other Diploma,Females,"With Religion","Islam",13.1
+2015,Professional Qualification And Other Diploma,Females,"With Religion","Hinduism",4
+2015,Professional Qualification And Other Diploma,Females,"With Religion","Sikhism",0.2
+2015,Professional Qualification And Other Diploma,Females,"With Religion","Christianity",33
+2015,Professional Qualification And Other Diploma,Females,"With Religion","Other Religions",0.3
+2015,University,Total,"With Religion","Buddhism",199.5
+2015,University,Total,"With Religion","Taoism",48.3
+2015,University,Total,"With Religion","Islam",38
+2015,University,Total,"With Religion","Hinduism",64.8
+2015,University,Total,"With Religion","Sikhism",3.5
+2015,University,Total,"With Religion","Christianity",242.6
+2015,University,Total,"With Religion","Other Religions",2.7
+2015,University,Males,"With Religion","Buddhism",100.8
+2015,University,Males,"With Religion","Taoism",24.6
+2015,University,Males,"With Religion","Islam",17.1
+2015,University,Males,"With Religion","Hinduism",31.8
+2015,University,Males,"With Religion","Sikhism",1.6
+2015,University,Males,"With Religion","Christianity",116.1
+2015,University,Males,"With Religion","Other Religions",1.7
+2015,University,Females,"With Religion","Buddhism",98.7
+2015,University,Females,"With Religion","Taoism",23.7
+2015,University,Females,"With Religion","Islam",20.9
+2015,University,Females,"With Religion","Hinduism",33
+2015,University,Females,"With Religion","Sikhism",1.8
+2015,University,Females,"With Religion","Christianity",126.4
+2015,University,Females,"With Religion","Other Religions",1

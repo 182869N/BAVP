@@ -1,0 +1,207 @@
+year,level_1,level_2,level_3,level_4,value
+2015,Chinese,English,"Total","5 - 9",92.5
+2015,Chinese,English,"Total","10 - 14",88.7
+2015,Chinese,English,"Total","15 - 19",96.2
+2015,Chinese,English,"Total","20 - 24",87.8
+2015,Chinese,English,"Total","25 - 29",69.1
+2015,Chinese,English,"Total","30 - 34",68.3
+2015,Chinese,English,"Total","35 - 39",80
+2015,Chinese,English,"Total","40 - 44",82.2
+2015,Chinese,English,"Total","45 - 49",73.4
+2015,Chinese,English,"Total","50 - 54",75.3
+2015,Chinese,English,"Total","55 - 59",70.9
+2015,Chinese,English,"Total","60 - 64",49.8
+2015,Chinese,English,"Total","65 - 69",34.6
+2015,Chinese,English,"Total","70 - 74",12.5
+2015,Chinese,English,"Total","75 & Over",14.2
+2015,Chinese,Mandarin,"Total","5 - 9",51.5
+2015,Chinese,Mandarin,"Total","10 - 14",59
+2015,Chinese,Mandarin,"Total","15 - 19",80.9
+2015,Chinese,Mandarin,"Total","20 - 24",93.4
+2015,Chinese,Mandarin,"Total","25 - 29",97.5
+2015,Chinese,Mandarin,"Total","30 - 34",108.5
+2015,Chinese,Mandarin,"Total","35 - 39",110.7
+2015,Chinese,Mandarin,"Total","40 - 44",110.3
+2015,Chinese,Mandarin,"Total","45 - 49",105.1
+2015,Chinese,Mandarin,"Total","50 - 54",119
+2015,Chinese,Mandarin,"Total","55 - 59",101.8
+2015,Chinese,Mandarin,"Total","60 - 64",85.3
+2015,Chinese,Mandarin,"Total","65 - 69",52.2
+2015,Chinese,Mandarin,"Total","70 - 74",25.9
+2015,Chinese,Mandarin,"Total","75 & Over",25.9
+2015,Chinese,Chinese Dialects,"Total","5 - 9",1.2
+2015,Chinese,Chinese Dialects,"Total","10 - 14",1.5
+2015,Chinese,Chinese Dialects,"Total","15 - 19",2.7
+2015,Chinese,Chinese Dialects,"Total","20 - 24",4
+2015,Chinese,Chinese Dialects,"Total","25 - 29",7.9
+2015,Chinese,Chinese Dialects,"Total","30 - 34",12.9
+2015,Chinese,Chinese Dialects,"Total","35 - 39",21.4
+2015,Chinese,Chinese Dialects,"Total","40 - 44",30
+2015,Chinese,Chinese Dialects,"Total","45 - 49",31.5
+2015,Chinese,Chinese Dialects,"Total","50 - 54",34.4
+2015,Chinese,Chinese Dialects,"Total","55 - 59",45.9
+2015,Chinese,Chinese Dialects,"Total","60 - 64",50.9
+2015,Chinese,Chinese Dialects,"Total","65 - 69",55.1
+2015,Chinese,Chinese Dialects,"Total","70 - 74",42.7
+2015,Chinese,Chinese Dialects,"Total","75 & Over",87.2
+2015,Chinese,Others,"Total","5 - 9",0.3
+2015,Chinese,Others,"Total","10 - 14",0.6
+2015,Chinese,Others,"Total","15 - 19",0.5
+2015,Chinese,Others,"Total","20 - 24",0.9
+2015,Chinese,Others,"Total","25 - 29",0.9
+2015,Chinese,Others,"Total","30 - 34",1.2
+2015,Chinese,Others,"Total","35 - 39",1.2
+2015,Chinese,Others,"Total","40 - 44",0.8
+2015,Chinese,Others,"Total","45 - 49",0.4
+2015,Chinese,Others,"Total","50 - 54",0.6
+2015,Chinese,Others,"Total","55 - 59",0.5
+2015,Chinese,Others,"Total","60 - 64",0.4
+2015,Chinese,Others,"Total","65 - 69",0.5
+2015,Chinese,Others,"Total","70 - 74",0.2
+2015,Chinese,Others,"Total","75 & Over",0.4
+2015,Malays,English,"Total","5 - 9",13.1
+2015,Malays,English,"Total","10 - 14",12.2
+2015,Malays,English,"Total","15 - 19",11.1
+2015,Malays,English,"Total","20 - 24",10.5
+2015,Malays,English,"Total","25 - 29",8.3
+2015,Malays,English,"Total","30 - 34",8.4
+2015,Malays,English,"Total","35 - 39",7.6
+2015,Malays,English,"Total","40 - 44",6.5
+2015,Malays,English,"Total","45 - 49",6.3
+2015,Malays,English,"Total","50 - 54",5.8
+2015,Malays,English,"Total","55 - 59",2.3
+2015,Malays,English,"Total","60 - 64",2.3
+2015,Malays,English,"Total","65 - 69",1.1
+2015,Malays,English,"Total","70 - 74",0.4
+2015,Malays,English,"Total","75 & Over",0.4
+2015,Malays,Malay,"Total","5 - 9",19.8
+2015,Malays,Malay,"Total","10 - 14",24.2
+2015,Malays,Malay,"Total","15 - 19",32.5
+2015,Malays,Malay,"Total","20 - 24",34
+2015,Malays,Malay,"Total","25 - 29",30.1
+2015,Malays,Malay,"Total","30 - 34",24.3
+2015,Malays,Malay,"Total","35 - 39",18.9
+2015,Malays,Malay,"Total","40 - 44",19.2
+2015,Malays,Malay,"Total","45 - 49",28.5
+2015,Malays,Malay,"Total","50 - 54",31.8
+2015,Malays,Malay,"Total","55 - 59",30.3
+2015,Malays,Malay,"Total","60 - 64",21.4
+2015,Malays,Malay,"Total","65 - 69",15.6
+2015,Malays,Malay,"Total","70 - 74",7.9
+2015,Malays,Malay,"Total","75 & Over",12.9
+2015,Malays,Others,"Total","5 - 9",0.1
+2015,Malays,Others,"Total","10 - 14",0.1
+2015,Malays,Others,"Total","35 - 39",0.2
+2015,Malays,Others,"Total","40 - 44",0.2
+2015,Indians,English,"Total","5 - 9",14.5
+2015,Indians,English,"Total","10 - 14",14.5
+2015,Indians,English,"Total","15 - 19",12.3
+2015,Indians,English,"Total","20 - 24",10.9
+2015,Indians,English,"Total","25 - 29",9
+2015,Indians,English,"Total","30 - 34",10.9
+2015,Indians,English,"Total","35 - 39",10.9
+2015,Indians,English,"Total","40 - 44",11.8
+2015,Indians,English,"Total","45 - 49",11
+2015,Indians,English,"Total","50 - 54",10
+2015,Indians,English,"Total","55 - 59",8.2
+2015,Indians,English,"Total","60 - 64",6.1
+2015,Indians,English,"Total","65 - 69",3.5
+2015,Indians,English,"Total","70 - 74",1.2
+2015,Indians,English,"Total","75 & Over",2.6
+2015,Indians,Malay,"Total","5 - 9",1.1
+2015,Indians,Malay,"Total","10 - 14",0.8
+2015,Indians,Malay,"Total","15 - 19",1.4
+2015,Indians,Malay,"Total","20 - 24",1.8
+2015,Indians,Malay,"Total","25 - 29",1.7
+2015,Indians,Malay,"Total","30 - 34",1.5
+2015,Indians,Malay,"Total","35 - 39",0.8
+2015,Indians,Malay,"Total","40 - 44",1
+2015,Indians,Malay,"Total","45 - 49",0.9
+2015,Indians,Malay,"Total","50 - 54",1.4
+2015,Indians,Malay,"Total","55 - 59",1.5
+2015,Indians,Malay,"Total","60 - 64",1.7
+2015,Indians,Malay,"Total","65 - 69",1.2
+2015,Indians,Malay,"Total","70 - 74",0.4
+2015,Indians,Malay,"Total","75 & Over",0.3
+2015,Indians,Tamil,"Total","5 - 9",9.1
+2015,Indians,Tamil,"Total","10 - 14",9.4
+2015,Indians,Tamil,"Total","15 - 19",6.7
+2015,Indians,Tamil,"Total","20 - 24",5.4
+2015,Indians,Tamil,"Total","25 - 29",6.1
+2015,Indians,Tamil,"Total","30 - 34",10.9
+2015,Indians,Tamil,"Total","35 - 39",13.6
+2015,Indians,Tamil,"Total","40 - 44",13.6
+2015,Indians,Tamil,"Total","45 - 49",9.3
+2015,Indians,Tamil,"Total","50 - 54",8.9
+2015,Indians,Tamil,"Total","55 - 59",7.6
+2015,Indians,Tamil,"Total","60 - 64",5.6
+2015,Indians,Tamil,"Total","65 - 69",4.5
+2015,Indians,Tamil,"Total","70 - 74",2.4
+2015,Indians,Tamil,"Total","75 & Over",4
+2015,Indians,Other Indian Languages,"Total","5 - 9",1.9
+2015,Indians,Other Indian Languages,"Total","10 - 14",2.3
+2015,Indians,Other Indian Languages,"Total","15 - 19",1.5
+2015,Indians,Other Indian Languages,"Total","20 - 24",1.1
+2015,Indians,Other Indian Languages,"Total","25 - 29",1.2
+2015,Indians,Other Indian Languages,"Total","30 - 34",5.2
+2015,Indians,Other Indian Languages,"Total","35 - 39",6.9
+2015,Indians,Other Indian Languages,"Total","40 - 44",5.8
+2015,Indians,Other Indian Languages,"Total","45 - 49",4.1
+2015,Indians,Other Indian Languages,"Total","50 - 54",2.7
+2015,Indians,Other Indian Languages,"Total","55 - 59",1.2
+2015,Indians,Other Indian Languages,"Total","60 - 64",1.1
+2015,Indians,Other Indian Languages,"Total","65 - 69",0.5
+2015,Indians,Other Indian Languages,"Total","70 - 74",0.4
+2015,Indians,Other Indian Languages,"Total","75 & Over",1.3
+2015,Indians,Others,"Total","5 - 9",0.1
+2015,Indians,Others,"Total","10 - 14",0.1
+2015,Indians,Others,"Total","15 - 19",0.2
+2015,Indians,Others,"Total","20 - 24",0.1
+2015,Indians,Others,"Total","25 - 29",0.1
+2015,Indians,Others,"Total","30 - 34",0.2
+2015,Indians,Others,"Total","40 - 44",0.1
+2015,Indians,Others,"Total","45 - 49",0.2
+2015,Indians,Others,"Total","50 - 54",0.1
+2015,Others,English,"Total","5 - 9",8.1
+2015,Others,English,"Total","10 - 14",7.2
+2015,Others,English,"Total","15 - 19",5.3
+2015,Others,English,"Total","20 - 24",3.3
+2015,Others,English,"Total","25 - 29",3.1
+2015,Others,English,"Total","30 - 34",6.2
+2015,Others,English,"Total","35 - 39",8.7
+2015,Others,English,"Total","40 - 44",9.9
+2015,Others,English,"Total","45 - 49",8
+2015,Others,English,"Total","50 - 54",5.7
+2015,Others,English,"Total","55 - 59",2.4
+2015,Others,English,"Total","60 - 64",2.5
+2015,Others,English,"Total","65 - 69",1.8
+2015,Others,English,"Total","70 - 74",0.8
+2015,Others,English,"Total","75 & Over",0.8
+2015,Others,Malay,"Total","10 - 14",0.4
+2015,Others,Malay,"Total","15 - 19",0.4
+2015,Others,Malay,"Total","20 - 24",0.4
+2015,Others,Malay,"Total","25 - 29",0.6
+2015,Others,Malay,"Total","30 - 34",0.2
+2015,Others,Malay,"Total","35 - 39",0.3
+2015,Others,Malay,"Total","40 - 44",0.3
+2015,Others,Malay,"Total","45 - 49",0.2
+2015,Others,Malay,"Total","50 - 54",0.3
+2015,Others,Malay,"Total","55 - 59",0.3
+2015,Others,Malay,"Total","60 - 64",0.1
+2015,Others,Malay,"Total","65 - 69",0.1
+2015,Others,Malay,"Total","70 - 74",0.2
+2015,Others,Malay,"Total","75 & Over",0.1
+2015,Others,Others,"Total","5 - 9",1.9
+2015,Others,Others,"Total","10 - 14",1.9
+2015,Others,Others,"Total","15 - 19",2.4
+2015,Others,Others,"Total","20 - 24",1.1
+2015,Others,Others,"Total","25 - 29",1.9
+2015,Others,Others,"Total","30 - 34",3.1
+2015,Others,Others,"Total","35 - 39",5.1
+2015,Others,Others,"Total","40 - 44",6.4
+2015,Others,Others,"Total","45 - 49",4.3
+2015,Others,Others,"Total","50 - 54",2.5
+2015,Others,Others,"Total","55 - 59",1.9
+2015,Others,Others,"Total","60 - 64",0.4
+2015,Others,Others,"Total","65 - 69",0.2
+2015,Others,Others,"Total","70 - 74",0.1

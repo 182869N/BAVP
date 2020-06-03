@@ -1,0 +1,391 @@
+year,level_1,level_2,level_3,level_4,value
+2015,Total,Total,"Total","15 - 19",254.6
+2015,Total,Total,"Total","20 - 24",256.8
+2015,Total,Total,"Total","25 - 29",244.3
+2015,Total,Total,"Total","30 - 34",271.2
+2015,Total,Total,"Total","35 - 39",300.5
+2015,Total,Total,"Total","40 - 44",315.6
+2015,Total,Total,"Total","45 - 49",301.6
+2015,Total,Total,"Total","50 - 54",319.4
+2015,Total,Total,"Total","55 - 59",296.7
+2015,Total,Total,"Total","60 - 64",248.2
+2015,Total,Total,"Total","65 - 69",185.7
+2015,Total,Total,"Total","70 - 74",107.2
+2015,Total,Total,"Total","75 & Over",174.1
+2015,Total,Males,"Total","15 - 19",131.9
+2015,Total,Males,"Total","20 - 24",132.4
+2015,Total,Males,"Total","25 - 29",119.6
+2015,Total,Males,"Total","30 - 34",127.3
+2015,Total,Males,"Total","35 - 39",140.5
+2015,Total,Males,"Total","40 - 44",151.5
+2015,Total,Males,"Total","45 - 49",146.5
+2015,Total,Males,"Total","50 - 54",159.3
+2015,Total,Males,"Total","55 - 59",148.8
+2015,Total,Males,"Total","60 - 64",123.4
+2015,Total,Males,"Total","65 - 69",88.2
+2015,Total,Males,"Total","70 - 74",49.9
+2015,Total,Males,"Total","75 & Over",70.3
+2015,Total,Females,"Total","15 - 19",122.7
+2015,Total,Females,"Total","20 - 24",124.4
+2015,Total,Females,"Total","25 - 29",124.7
+2015,Total,Females,"Total","30 - 34",143.9
+2015,Total,Females,"Total","35 - 39",160
+2015,Total,Females,"Total","40 - 44",164.1
+2015,Total,Females,"Total","45 - 49",155
+2015,Total,Females,"Total","50 - 54",160.1
+2015,Total,Females,"Total","55 - 59",147.9
+2015,Total,Females,"Total","60 - 64",124.8
+2015,Total,Females,"Total","65 - 69",97.5
+2015,Total,Females,"Total","70 - 74",57.3
+2015,Total,Females,"Total","75 & Over",103.8
+2015,No Religion,Total,"Total","15 - 19",56.6
+2015,No Religion,Total,"Total","20 - 24",61
+2015,No Religion,Total,"Total","25 - 29",58.7
+2015,No Religion,Total,"Total","30 - 34",56.6
+2015,No Religion,Total,"Total","35 - 39",60.8
+2015,No Religion,Total,"Total","40 - 44",58.8
+2015,No Religion,Total,"Total","45 - 49",53.5
+2015,No Religion,Total,"Total","50 - 54",50.9
+2015,No Religion,Total,"Total","55 - 59",43.7
+2015,No Religion,Total,"Total","60 - 64",37.3
+2015,No Religion,Total,"Total","65 - 69",30
+2015,No Religion,Total,"Total","70 - 74",15.9
+2015,No Religion,Total,"Total","75 & Over",20.8
+2015,No Religion,Males,"Total","15 - 19",30.1
+2015,No Religion,Males,"Total","20 - 24",31.7
+2015,No Religion,Males,"Total","25 - 29",31.8
+2015,No Religion,Males,"Total","30 - 34",27.4
+2015,No Religion,Males,"Total","35 - 39",29.4
+2015,No Religion,Males,"Total","40 - 44",29
+2015,No Religion,Males,"Total","45 - 49",27.6
+2015,No Religion,Males,"Total","50 - 54",27.6
+2015,No Religion,Males,"Total","55 - 59",23.6
+2015,No Religion,Males,"Total","60 - 64",20.4
+2015,No Religion,Males,"Total","65 - 69",16.9
+2015,No Religion,Males,"Total","70 - 74",8.8
+2015,No Religion,Males,"Total","75 & Over",12.9
+2015,No Religion,Females,"Total","15 - 19",26.4
+2015,No Religion,Females,"Total","20 - 24",29.4
+2015,No Religion,Females,"Total","25 - 29",26.8
+2015,No Religion,Females,"Total","30 - 34",29.2
+2015,No Religion,Females,"Total","35 - 39",31.4
+2015,No Religion,Females,"Total","40 - 44",29.8
+2015,No Religion,Females,"Total","45 - 49",25.9
+2015,No Religion,Females,"Total","50 - 54",23.3
+2015,No Religion,Females,"Total","55 - 59",20
+2015,No Religion,Females,"Total","60 - 64",16.9
+2015,No Religion,Females,"Total","65 - 69",13.2
+2015,No Religion,Females,"Total","70 - 74",7.1
+2015,No Religion,Females,"Total","75 & Over",7.9
+2015,Buddhism,Total,"Total","15 - 19",70.1
+2015,Buddhism,Total,"Total","20 - 24",67.8
+2015,Buddhism,Total,"Total","25 - 29",67.8
+2015,Buddhism,Total,"Total","30 - 34",83.8
+2015,Buddhism,Total,"Total","35 - 39",100
+2015,Buddhism,Total,"Total","40 - 44",107.1
+2015,Buddhism,Total,"Total","45 - 49",103.9
+2015,Buddhism,Total,"Total","50 - 54",115.7
+2015,Buddhism,Total,"Total","55 - 59",107.8
+2015,Buddhism,Total,"Total","60 - 64",92.7
+2015,Buddhism,Total,"Total","65 - 69",66.7
+2015,Buddhism,Total,"Total","70 - 74",40.5
+2015,Buddhism,Total,"Total","75 & Over",63.6
+2015,Buddhism,Males,"Total","15 - 19",36.6
+2015,Buddhism,Males,"Total","20 - 24",35.1
+2015,Buddhism,Males,"Total","25 - 29",31.8
+2015,Buddhism,Males,"Total","30 - 34",39.4
+2015,Buddhism,Males,"Total","35 - 39",45.2
+2015,Buddhism,Males,"Total","40 - 44",52.2
+2015,Buddhism,Males,"Total","45 - 49",49.7
+2015,Buddhism,Males,"Total","50 - 54",59.6
+2015,Buddhism,Males,"Total","55 - 59",54.1
+2015,Buddhism,Males,"Total","60 - 64",46.1
+2015,Buddhism,Males,"Total","65 - 69",30.9
+2015,Buddhism,Males,"Total","70 - 74",18.3
+2015,Buddhism,Males,"Total","75 & Over",23.6
+2015,Buddhism,Females,"Total","15 - 19",33.5
+2015,Buddhism,Females,"Total","20 - 24",32.7
+2015,Buddhism,Females,"Total","25 - 29",36
+2015,Buddhism,Females,"Total","30 - 34",44.4
+2015,Buddhism,Females,"Total","35 - 39",54.7
+2015,Buddhism,Females,"Total","40 - 44",54.9
+2015,Buddhism,Females,"Total","45 - 49",54.2
+2015,Buddhism,Females,"Total","50 - 54",56.1
+2015,Buddhism,Females,"Total","55 - 59",53.6
+2015,Buddhism,Females,"Total","60 - 64",46.6
+2015,Buddhism,Females,"Total","65 - 69",35.8
+2015,Buddhism,Females,"Total","70 - 74",22.2
+2015,Buddhism,Females,"Total","75 & Over",40.1
+2015,Taoism,Total,"Total","15 - 19",14.6
+2015,Taoism,Total,"Total","20 - 24",17.7
+2015,Taoism,Total,"Total","25 - 29",19.5
+2015,Taoism,Total,"Total","30 - 34",23.1
+2015,Taoism,Total,"Total","35 - 39",23.2
+2015,Taoism,Total,"Total","40 - 44",23.2
+2015,Taoism,Total,"Total","45 - 49",24.4
+2015,Taoism,Total,"Total","50 - 54",30.8
+2015,Taoism,Total,"Total","55 - 59",36.6
+2015,Taoism,Total,"Total","60 - 64",35.7
+2015,Taoism,Total,"Total","65 - 69",29.7
+2015,Taoism,Total,"Total","70 - 74",18.7
+2015,Taoism,Total,"Total","75 & Over",29.4
+2015,Taoism,Males,"Total","15 - 19",7.4
+2015,Taoism,Males,"Total","20 - 24",9.7
+2015,Taoism,Males,"Total","25 - 29",9.2
+2015,Taoism,Males,"Total","30 - 34",11.6
+2015,Taoism,Males,"Total","35 - 39",12.3
+2015,Taoism,Males,"Total","40 - 44",11.3
+2015,Taoism,Males,"Total","45 - 49",11.6
+2015,Taoism,Males,"Total","50 - 54",15.5
+2015,Taoism,Males,"Total","55 - 59",19.5
+2015,Taoism,Males,"Total","60 - 64",17.9
+2015,Taoism,Males,"Total","65 - 69",14.4
+2015,Taoism,Males,"Total","70 - 74",9.2
+2015,Taoism,Males,"Total","75 & Over",11.2
+2015,Taoism,Females,"Total","15 - 19",7.1
+2015,Taoism,Females,"Total","20 - 24",8
+2015,Taoism,Females,"Total","25 - 29",10.2
+2015,Taoism,Females,"Total","30 - 34",11.4
+2015,Taoism,Females,"Total","35 - 39",10.9
+2015,Taoism,Females,"Total","40 - 44",11.9
+2015,Taoism,Females,"Total","45 - 49",12.8
+2015,Taoism,Females,"Total","50 - 54",15.3
+2015,Taoism,Females,"Total","55 - 59",17.1
+2015,Taoism,Females,"Total","60 - 64",17.8
+2015,Taoism,Females,"Total","65 - 69",15.3
+2015,Taoism,Females,"Total","70 - 74",9.5
+2015,Taoism,Females,"Total","75 & Over",18.3
+2015,Islam,Total,"Total","15 - 19",49.6
+2015,Islam,Total,"Total","20 - 24",51.8
+2015,Islam,Total,"Total","25 - 29",46.2
+2015,Islam,Total,"Total","30 - 34",40.8
+2015,Islam,Total,"Total","35 - 39",34.1
+2015,Islam,Total,"Total","40 - 44",33.7
+2015,Islam,Total,"Total","45 - 49",41.7
+2015,Islam,Total,"Total","50 - 54",44.6
+2015,Islam,Total,"Total","55 - 59",39.6
+2015,Islam,Total,"Total","60 - 64",29.5
+2015,Islam,Total,"Total","65 - 69",20.9
+2015,Islam,Total,"Total","70 - 74",10.9
+2015,Islam,Total,"Total","75 & Over",16.4
+2015,Islam,Males,"Total","15 - 19",25.7
+2015,Islam,Males,"Total","20 - 24",26.6
+2015,Islam,Males,"Total","25 - 29",23.2
+2015,Islam,Males,"Total","30 - 34",19.4
+2015,Islam,Males,"Total","35 - 39",16.5
+2015,Islam,Males,"Total","40 - 44",16.1
+2015,Islam,Males,"Total","45 - 49",19.9
+2015,Islam,Males,"Total","50 - 54",21.3
+2015,Islam,Males,"Total","55 - 59",20.4
+2015,Islam,Males,"Total","60 - 64",14.7
+2015,Islam,Males,"Total","65 - 69",9.4
+2015,Islam,Males,"Total","70 - 74",5.3
+2015,Islam,Males,"Total","75 & Over",7.4
+2015,Islam,Females,"Total","15 - 19",23.8
+2015,Islam,Females,"Total","20 - 24",25.2
+2015,Islam,Females,"Total","25 - 29",23
+2015,Islam,Females,"Total","30 - 34",21.4
+2015,Islam,Females,"Total","35 - 39",17.6
+2015,Islam,Females,"Total","40 - 44",17.6
+2015,Islam,Females,"Total","45 - 49",21.8
+2015,Islam,Females,"Total","50 - 54",23.3
+2015,Islam,Females,"Total","55 - 59",19.2
+2015,Islam,Females,"Total","60 - 64",14.8
+2015,Islam,Females,"Total","65 - 69",11.5
+2015,Islam,Females,"Total","70 - 74",5.6
+2015,Islam,Females,"Total","75 & Over",9
+2015,Hinduism,Total,"Total","15 - 19",12.9
+2015,Hinduism,Total,"Total","20 - 24",9.6
+2015,Hinduism,Total,"Total","25 - 29",9.5
+2015,Hinduism,Total,"Total","30 - 34",19.6
+2015,Hinduism,Total,"Total","35 - 39",22.8
+2015,Hinduism,Total,"Total","40 - 44",22.8
+2015,Hinduism,Total,"Total","45 - 49",16.5
+2015,Hinduism,Total,"Total","50 - 54",15.2
+2015,Hinduism,Total,"Total","55 - 59",11.1
+2015,Hinduism,Total,"Total","60 - 64",8.9
+2015,Hinduism,Total,"Total","65 - 69",5.6
+2015,Hinduism,Total,"Total","70 - 74",2.7
+2015,Hinduism,Total,"Total","75 & Over",5.3
+2015,Hinduism,Males,"Total","15 - 19",6.7
+2015,Hinduism,Males,"Total","20 - 24",5.1
+2015,Hinduism,Males,"Total","25 - 29",3.7
+2015,Hinduism,Males,"Total","30 - 34",8.4
+2015,Hinduism,Males,"Total","35 - 39",10.7
+2015,Hinduism,Males,"Total","40 - 44",12.8
+2015,Hinduism,Males,"Total","45 - 49",10
+2015,Hinduism,Males,"Total","50 - 54",7.6
+2015,Hinduism,Males,"Total","55 - 59",6
+2015,Hinduism,Males,"Total","60 - 64",4.7
+2015,Hinduism,Males,"Total","65 - 69",2.6
+2015,Hinduism,Males,"Total","70 - 74",1.2
+2015,Hinduism,Males,"Total","75 & Over",2
+2015,Hinduism,Females,"Total","15 - 19",6.3
+2015,Hinduism,Females,"Total","20 - 24",4.5
+2015,Hinduism,Females,"Total","25 - 29",5.7
+2015,Hinduism,Females,"Total","30 - 34",11.1
+2015,Hinduism,Females,"Total","35 - 39",12.1
+2015,Hinduism,Females,"Total","40 - 44",10
+2015,Hinduism,Females,"Total","45 - 49",6.5
+2015,Hinduism,Females,"Total","50 - 54",7.7
+2015,Hinduism,Females,"Total","55 - 59",5.1
+2015,Hinduism,Females,"Total","60 - 64",4.2
+2015,Hinduism,Females,"Total","65 - 69",3.1
+2015,Hinduism,Females,"Total","70 - 74",1.5
+2015,Hinduism,Females,"Total","75 & Over",3.3
+2015,Sikhism,Total,"Total","15 - 19",0.9
+2015,Sikhism,Total,"Total","20 - 24",0.8
+2015,Sikhism,Total,"Total","25 - 29",0.8
+2015,Sikhism,Total,"Total","30 - 34",1.3
+2015,Sikhism,Total,"Total","35 - 39",0.9
+2015,Sikhism,Total,"Total","40 - 44",0.8
+2015,Sikhism,Total,"Total","45 - 49",0.9
+2015,Sikhism,Total,"Total","50 - 54",1.2
+2015,Sikhism,Total,"Total","55 - 59",1.2
+2015,Sikhism,Total,"Total","60 - 64",1.2
+2015,Sikhism,Total,"Total","65 - 69",0.6
+2015,Sikhism,Total,"Total","70 - 74",0.2
+2015,Sikhism,Total,"Total","75 & Over",0.8
+2015,Sikhism,Males,"Total","15 - 19",0.4
+2015,Sikhism,Males,"Total","20 - 24",0.2
+2015,Sikhism,Males,"Total","25 - 29",0.3
+2015,Sikhism,Males,"Total","30 - 34",0.8
+2015,Sikhism,Males,"Total","35 - 39",0.5
+2015,Sikhism,Males,"Total","40 - 44",0.4
+2015,Sikhism,Males,"Total","45 - 49",0.3
+2015,Sikhism,Males,"Total","50 - 54",0.7
+2015,Sikhism,Males,"Total","55 - 59",0.6
+2015,Sikhism,Males,"Total","60 - 64",0.5
+2015,Sikhism,Males,"Total","65 - 69",0.3
+2015,Sikhism,Males,"Total","70 - 74",0.1
+2015,Sikhism,Males,"Total","75 & Over",0.2
+2015,Sikhism,Females,"Total","15 - 19",0.5
+2015,Sikhism,Females,"Total","20 - 24",0.6
+2015,Sikhism,Females,"Total","25 - 29",0.6
+2015,Sikhism,Females,"Total","30 - 34",0.5
+2015,Sikhism,Females,"Total","35 - 39",0.4
+2015,Sikhism,Females,"Total","40 - 44",0.4
+2015,Sikhism,Females,"Total","45 - 49",0.6
+2015,Sikhism,Females,"Total","50 - 54",0.5
+2015,Sikhism,Females,"Total","55 - 59",0.6
+2015,Sikhism,Females,"Total","60 - 64",0.7
+2015,Sikhism,Females,"Total","65 - 69",0.3
+2015,Sikhism,Females,"Total","70 - 74",0.1
+2015,Sikhism,Females,"Total","75 & Over",0.6
+2015,Christianity- Catholic,Total,"Total","15 - 19",17.4
+2015,Christianity- Catholic,Total,"Total","20 - 24",15.2
+2015,Christianity- Catholic,Total,"Total","25 - 29",13.8
+2015,Christianity- Catholic,Total,"Total","30 - 34",16.5
+2015,Christianity- Catholic,Total,"Total","35 - 39",23.3
+2015,Christianity- Catholic,Total,"Total","40 - 44",24.4
+2015,Christianity- Catholic,Total,"Total","45 - 49",19.2
+2015,Christianity- Catholic,Total,"Total","50 - 54",20.1
+2015,Christianity- Catholic,Total,"Total","55 - 59",17.5
+2015,Christianity- Catholic,Total,"Total","60 - 64",15.1
+2015,Christianity- Catholic,Total,"Total","65 - 69",14.8
+2015,Christianity- Catholic,Total,"Total","70 - 74",8.1
+2015,Christianity- Catholic,Total,"Total","75 & Over",15.5
+2015,Christianity- Catholic,Males,"Total","15 - 19",8.5
+2015,Christianity- Catholic,Males,"Total","20 - 24",7.4
+2015,Christianity- Catholic,Males,"Total","25 - 29",6.6
+2015,Christianity- Catholic,Males,"Total","30 - 34",7.3
+2015,Christianity- Catholic,Males,"Total","35 - 39",10
+2015,Christianity- Catholic,Males,"Total","40 - 44",10.9
+2015,Christianity- Catholic,Males,"Total","45 - 49",9
+2015,Christianity- Catholic,Males,"Total","50 - 54",9.4
+2015,Christianity- Catholic,Males,"Total","55 - 59",7.5
+2015,Christianity- Catholic,Males,"Total","60 - 64",6.7
+2015,Christianity- Catholic,Males,"Total","65 - 69",6.2
+2015,Christianity- Catholic,Males,"Total","70 - 74",3.2
+2015,Christianity- Catholic,Males,"Total","75 & Over",5.5
+2015,Christianity- Catholic,Females,"Total","15 - 19",8.8
+2015,Christianity- Catholic,Females,"Total","20 - 24",7.8
+2015,Christianity- Catholic,Females,"Total","25 - 29",7.2
+2015,Christianity- Catholic,Females,"Total","30 - 34",9.2
+2015,Christianity- Catholic,Females,"Total","35 - 39",13.3
+2015,Christianity- Catholic,Females,"Total","40 - 44",13.5
+2015,Christianity- Catholic,Females,"Total","45 - 49",10.2
+2015,Christianity- Catholic,Females,"Total","50 - 54",10.8
+2015,Christianity- Catholic,Females,"Total","55 - 59",10
+2015,Christianity- Catholic,Females,"Total","60 - 64",8.4
+2015,Christianity- Catholic,Females,"Total","65 - 69",8.6
+2015,Christianity- Catholic,Females,"Total","70 - 74",4.9
+2015,Christianity- Catholic,Females,"Total","75 & Over",10
+2015,Christianity- Other Christians,Total,"Total","15 - 19",32
+2015,Christianity- Other Christians,Total,"Total","20 - 24",32.5
+2015,Christianity- Other Christians,Total,"Total","25 - 29",27.6
+2015,Christianity- Other Christians,Total,"Total","30 - 34",29.2
+2015,Christianity- Other Christians,Total,"Total","35 - 39",34.5
+2015,Christianity- Other Christians,Total,"Total","40 - 44",44.2
+2015,Christianity- Other Christians,Total,"Total","45 - 49",40.8
+2015,Christianity- Other Christians,Total,"Total","50 - 54",40
+2015,Christianity- Other Christians,Total,"Total","55 - 59",38.9
+2015,Christianity- Other Christians,Total,"Total","60 - 64",26.9
+2015,Christianity- Other Christians,Total,"Total","65 - 69",16.9
+2015,Christianity- Other Christians,Total,"Total","70 - 74",9.9
+2015,Christianity- Other Christians,Total,"Total","75 & Over",21.8
+2015,Christianity- Other Christians,Males,"Total","15 - 19",16.2
+2015,Christianity- Other Christians,Males,"Total","20 - 24",16.4
+2015,Christianity- Other Christians,Males,"Total","25 - 29",12.8
+2015,Christianity- Other Christians,Males,"Total","30 - 34",12.8
+2015,Christianity- Other Christians,Males,"Total","35 - 39",15.4
+2015,Christianity- Other Christians,Males,"Total","40 - 44",18.4
+2015,Christianity- Other Christians,Males,"Total","45 - 49",18
+2015,Christianity- Other Christians,Males,"Total","50 - 54",17.4
+2015,Christianity- Other Christians,Males,"Total","55 - 59",16.9
+2015,Christianity- Other Christians,Males,"Total","60 - 64",12.1
+2015,Christianity- Other Christians,Males,"Total","65 - 69",7.3
+2015,Christianity- Other Christians,Males,"Total","70 - 74",3.7
+2015,Christianity- Other Christians,Males,"Total","75 & Over",7.4
+2015,Christianity- Other Christians,Females,"Total","15 - 19",15.8
+2015,Christianity- Other Christians,Females,"Total","20 - 24",16.1
+2015,Christianity- Other Christians,Females,"Total","25 - 29",14.8
+2015,Christianity- Other Christians,Females,"Total","30 - 34",16.5
+2015,Christianity- Other Christians,Females,"Total","35 - 39",19.1
+2015,Christianity- Other Christians,Females,"Total","40 - 44",25.9
+2015,Christianity- Other Christians,Females,"Total","45 - 49",22.7
+2015,Christianity- Other Christians,Females,"Total","50 - 54",22.6
+2015,Christianity- Other Christians,Females,"Total","55 - 59",22
+2015,Christianity- Other Christians,Females,"Total","60 - 64",14.8
+2015,Christianity- Other Christians,Females,"Total","65 - 69",9.6
+2015,Christianity- Other Christians,Females,"Total","70 - 74",6.2
+2015,Christianity- Other Christians,Females,"Total","75 & Over",14.4
+2015,Other Religions,Total,"Total","15 - 19",0.6
+2015,Other Religions,Total,"Total","20 - 24",0.4
+2015,Other Religions,Total,"Total","25 - 29",0.6
+2015,Other Religions,Total,"Total","30 - 34",0.4
+2015,Other Religions,Total,"Total","35 - 39",1
+2015,Other Religions,Total,"Total","40 - 44",0.6
+2015,Other Religions,Total,"Total","45 - 49",0.8
+2015,Other Religions,Total,"Total","50 - 54",0.9
+2015,Other Religions,Total,"Total","55 - 59",0.4
+2015,Other Religions,Total,"Total","60 - 64",0.9
+2015,Other Religions,Total,"Total","65 - 69",0.5
+2015,Other Religions,Total,"Total","70 - 74",0.3
+2015,Other Religions,Total,"Total","75 & Over",0.4
+2015,Other Religions,Males,"Total","15 - 19",0.3
+2015,Other Religions,Males,"Total","20 - 24",0.3
+2015,Other Religions,Males,"Total","25 - 29",0.2
+2015,Other Religions,Males,"Total","30 - 34",0.2
+2015,Other Religions,Males,"Total","35 - 39",0.6
+2015,Other Religions,Males,"Total","40 - 44",0.4
+2015,Other Religions,Males,"Total","45 - 49",0.4
+2015,Other Religions,Males,"Total","50 - 54",0.4
+2015,Other Religions,Males,"Total","55 - 59",0.2
+2015,Other Religions,Males,"Total","60 - 64",0.3
+2015,Other Religions,Males,"Total","65 - 69",0.3
+2015,Other Religions,Males,"Total","70 - 74",0.1
+2015,Other Religions,Males,"Total","75 & Over",0.2
+2015,Other Religions,Females,"Total","15 - 19",0.4
+2015,Other Religions,Females,"Total","20 - 24",0.1
+2015,Other Religions,Females,"Total","25 - 29",0.4
+2015,Other Religions,Females,"Total","30 - 34",0.2
+2015,Other Religions,Females,"Total","35 - 39",0.4
+2015,Other Religions,Females,"Total","40 - 44",0.2
+2015,Other Religions,Females,"Total","45 - 49",0.3
+2015,Other Religions,Females,"Total","50 - 54",0.5
+2015,Other Religions,Females,"Total","55 - 59",0.2
+2015,Other Religions,Females,"Total","60 - 64",0.6
+2015,Other Religions,Females,"Total","65 - 69",0.2
+2015,Other Religions,Females,"Total","70 - 74",0.2
+2015,Other Religions,Females,"Total","75 & Over",0.2
